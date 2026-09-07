@@ -1,2 +1,2 @@
-scripts/music_mixer/music_mixer
-scripts/music_mixer/mezcla
+**/.venv/
+./music_mixer/mezcla/*
